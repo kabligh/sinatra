@@ -14,7 +14,7 @@ get '/goodbye' do
 end
 
 get '/hallelujah' do
-  "🙌 🤡 🙏 🥳"
+  "🙌 🤡 🙏"
 end
 
 get '/cat' do
